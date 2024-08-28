@@ -1,4 +1,4 @@
-<!adresse im Browser: http://localhost/codes/neu_Waligorski_Henning_mTools.php
+
 
 <!Doctype html>
 
